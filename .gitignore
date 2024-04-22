@@ -1,0 +1,5 @@
+.cache
+.config
+.bash_history
+.mininet_history
+.python_history
