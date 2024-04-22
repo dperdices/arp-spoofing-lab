@@ -1,0 +1,3 @@
+[submodule "docker-mininet-mac"]
+	path = docker-mininet-mac
+	url = git@github.com:dperdices/docker-mininet-mac.git
