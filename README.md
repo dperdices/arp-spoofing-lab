@@ -1,6 +1,6 @@
-# ARP Spoofing
+# ARP Spoofing
 
-## How to run?
+## How to run?
 
 ```
 python3 arp_spoofing_topo.py
@@ -18,7 +18,7 @@ It will open three terminals: router (root namespace), client, and attacker.
 
 # DNS Spoofing
 
-## How to run?
+## How to run?
 
 ```
 python3 dns_spoofing_topo.py
